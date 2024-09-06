@@ -1,0 +1,17 @@
+.red-head,
+.special {
+  background-color: #ffc0cb;
+  font-family: Veranda, DejaVu Sans, sans-serif;
+}
+.special {
+  font-size: 24px;
+}
+#big-blue {
+  color: rgb(0, 0, 250);
+  font-size: 36px;
+}
+#medium-green {
+  background-color: hsl(120, 73%, 75%);
+  font-size: 24px;
+  font-weight: bold;
+}
